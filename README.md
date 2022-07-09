@@ -27,3 +27,5 @@ Scegliete il formato tra quelli disponibili :
 - [PNG](https://github.com/gvincenzi/energy_break/blob/master/energy_break.png)
 - [SVG](https://github.com/gvincenzi/energy_break/blob/master/energy_break.svg)
 - [PDF](https://github.com/gvincenzi/energy_break/blob/master/energy_break.pdf)
+
+Poi comunicate la vostra adesione a [Giuseppe Vincenzi](https://about.me/giuseppevincenzi) e/o all'[Associazione Assoetica](https://assoetica.it/contatti/).
