@@ -1,7 +1,7 @@
 ![Logo](https://github.com/gvincenzi/energy_break/blob/master/energy_break.png)
 
 ## Genesi dell'idea
-In [Assoetica](https://www.assoetica.it) ci si è posti la domanda del cosa aggiunge l’aggettivo **sostenibile** quando è associato a sostantivi come **connettività** ?
+In [Assoetica](https://www.assoetica.it) ci si è posti la domanda del cosa aggiunge l’aggettivo **sostenibile** quando è associato a sostantivi come **connettività**.
 
 In questo [articolo](https://www.francescovaranini.it/2022/02/la-sostenibilita-digitale-un-concetto-ambiguo-articolo-uscito-il-23-febbraio-2022-su-agenda-digitale-con-il-titolo-laltra-sostenibilita-e-il-diritto-di-non-essere-digitali-come-gara/) ci si chiede : “[...] in funzione della sostenibilità, si è forse disposti a mettere in discussione le caratteristiche tecnologiche dei sistemi che garantiscono la connettività? [...]”.
 
